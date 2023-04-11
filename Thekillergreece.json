@@ -1,0 +1,53 @@
+{
+	"version": "2",
+	"author": "Thekillergreece",
+	"authorURL": "https://github.com/Thekillergreece",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "4.6",
+			"name": "FoodPackByTKG",
+			"displayName": "Food Pack by TKG.",
+			"author": "Thekillergreece",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+			"released": "2023-04-11",
+			"updated": "2023-04-11",
+			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/tag/Latest",
+			"modURL": "https://github.com/Thekillergreece/FoodPackByTKG",
+			"description": "Introduces 33 new food items to the game.\n\nDue to ds5678's unfortunate departure from the modding site, the mod was left with no modder and seemingly nobody was interested to try to get it to work with the latest version of the game as well as maintaining it by adding new spawn spots, balancing it if needed and so on.\n\nI decided to take over the project mainly because I love food mod packs. This and Waltz's food pack (https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz) were the only mods in the community that would bring a lot of food item varieties.\n\nIf you are considering downloading and installing this Food Pack, I strongly recommend you download and install Waltz's food pack as well. The link is posted above. Both of these mods will bring significant food varieties. This mod was expanded with Waltz's mod in mind.",
+			"tags": "",
+			"categories": [
+				"Food"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "--- 4.6 Version ---\n- NEW: Some lore pieces. They can be found solely at certain stores and big buildings.\n- Added loose spawn spots in every region, including the new DLC region(s).\n- Expanded the loot tables to add more opportunities to loot items from containers.\n- Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.\n- Nerfed/buffed certain food and drink items' calories. Made certain strong food/drink items to spawn much rare.\n\nFood items will be rarely found in cars, caves, etc, or in places where they wouldn't make much sense. This food pack will work excellently with Waltz's Food Pack.",
+				"notes": "1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe\n2. Install the latest version of ModComponent and its dependencies.\n3. Download the latest version of FoodPackByThekillergreece from the releases page.\n4. Move FoodPackByTKG.modcomponent and FoodPackByTKG.dll to your mods folder.\n5. (OPTIONAL) Download the latest version of Foods by 'Calorie Waltz' from their releases page.\n6. (OPTIONAL) Move the mod's content to the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
