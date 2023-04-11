@@ -24,7 +24,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+			        "https://github.com/Thekillergreece/mod_list/blob/main/Foodpackshowcase.png"
+			],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
