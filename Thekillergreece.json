@@ -41,7 +41,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.12",
-				"mlversion": ""
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
