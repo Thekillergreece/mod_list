@@ -50,6 +50,53 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5",
+			"name": "Wooden Statues",
+			"displayName": "Wooden Statues by 'TKG'",
+			"author": "Thekillergreece",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>nbakulev</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+			"released": "2023-04-13",
+			"updated": "2023-04-13",
+			"downloadURL": "https://github.com/Thekillergreece/WoodenStatues/releases/tag/Latest",
+			"modURL": "https://github.com/Thekillergreece/WoodenStatues",
+			"description": "Introduces 4 wooden animal statues, small and large.",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+			        "https://i.imgur.com/2Y5V4As.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Added large statues.",
+				"notes": "Just drop the contents into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
