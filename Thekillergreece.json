@@ -250,8 +250,8 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": []
-			"dependencies": []
+			"images": [],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": false,
