@@ -229,6 +229,45 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.4",
+			"name": "DisableBreathEffect",
+			"displayName": "Disable Breath Effect by 'TKG'",
+			"author": "Thekillergreece",
+			"previousAuthors": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"released": "2023-04-17",
+			"updated": "2023-04-17",
+			"downloadURL": "https://github.com/Thekillergreece/DisableBreathEffect/releases/download/Latest/DisableBreathEffect.dll",
+			"modURL": "https://github.com/Thekillergreece/DisableBreathEffect",
+			"description": "Disables Breath Effects.",
+			"tags": "",
+			"categories": [
+				"Graphics"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": []
+			"dependencies": []
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated for TLD v2.12",
+				"notes": "Just drop the .dll file into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
