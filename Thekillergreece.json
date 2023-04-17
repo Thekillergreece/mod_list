@@ -182,6 +182,53 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5",
+			"name": "Noodles",
+			"displayName": "Noodles by 'TKG'",
+			"author": "Thekillergreece",
+			"previousAuthors": "<a href='https://github.com/stmSantana' target='_blank'>nbakulev</a>",
+			"released": "2023-04-17",
+			"updated": "2023-04-17",
+			"downloadURL": "https://github.com/Thekillergreece/Noodles/releases/download/Latest/NoodlesByTKG.modcomponent",
+			"modURL": "https://github.com/Thekillergreece/Noodles",
+			"description": "Introduces noodles food items.",
+			"tags": "",
+			"categories": [
+				"Food"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+			        "https://i.imgur.com/78JPYoT.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated for TLD v2.12",
+				"notes": "Just drop the .modcomponent file into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [Test]
 		}
 	]
 }
