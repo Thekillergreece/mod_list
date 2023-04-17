@@ -228,7 +228,9 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"Test"
+			],
 		}
 	]
 }
