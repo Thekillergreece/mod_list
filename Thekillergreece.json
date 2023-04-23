@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "4.6",
+			"version": "4.6.1",
 			"name": "FoodPackByTKG",
 			"displayName": "Food Pack by 'TKG'",
 			"author": "Thekillergreece",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"released": "2023-04-11",
-			"updated": "2023-04-11",
-			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/Latest/FoodPackByTKG.zip",
+			"updated": "2023-04-23",
+			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/Latest/FoodPackByTKG.modcomponent",
 			"modURL": "https://github.com/Thekillergreece/FoodPackByTKG",
 			"description": "Introduces 33 new food items to the game.\n\nThis mod was expanded with Waltz's mod in mind so be sure to download that one too!",
 			"tags": "",
