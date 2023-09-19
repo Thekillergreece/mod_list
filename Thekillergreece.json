@@ -269,6 +269,54 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "RetroFoodPack",
+			"displayName": "Retro Food Pack",
+			"author": "Thekillergreece, Inarissa",
+			"previousAuthors": "",
+			"released": "2023-09-19",
+			"updated": "2023-09-19",
+			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/download/Latest/RetroFood.7z",
+			"modURL": "https://github.com/Thekillergreece/Retro-Food",
+			"description": "Adds 12 new food items, 3 of them needs to be cooked.",
+			"tags": "",
+			"categories": [
+				"Food"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/8yYdPp9.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+                                "AlcoholMod",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Version 1.0",
+				"notes": "Drop the files into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
