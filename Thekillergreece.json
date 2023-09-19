@@ -298,7 +298,6 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-                                "AlcoholMod",
 				"CraftingRevisions"
 			],
 			"status": {
