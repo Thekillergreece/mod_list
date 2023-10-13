@@ -272,16 +272,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0",
+			"version": "1.1",
 			"name": "RetroFoodPack",
 			"displayName": "Retro Food Pack",
 			"author": "Thekillergreece, Inarissa",
 			"previousAuthors": "",
 			"released": "2023-09-19",
-			"updated": "2023-09-19",
-			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/download/Latest/RetroFood.7z",
+			"updated": "2023-10-13",
+			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/tag/Updated",
 			"modURL": "https://github.com/Thekillergreece/Retro-Food",
-			"description": "Adds 12 new food items, 3 of them needs to be cooked.",
+			"description": "New update that adds more items. Total items 23 now.",
 			"tags": "",
 			"categories": [
 				"Food"
