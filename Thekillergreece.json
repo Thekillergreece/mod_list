@@ -303,12 +303,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Version 1.0",
+				"patchnotes": "Version 1.1",
 				"notes": "Drop the files into the mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.22",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
