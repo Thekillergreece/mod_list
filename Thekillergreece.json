@@ -344,7 +344,7 @@
 				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
-				"GearSpawner",
+				"GearSpawner"
 			],
 			"status": {
 				"working": true,
