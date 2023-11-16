@@ -101,47 +101,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.2",
-			"name": "Archery Target Practice",
-			"displayName": "Archery Target Practice by 'TKG'",
-			"author": "Thekillergreece",
-			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>nbakulev</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-			"released": "2023-04-13",
-			"updated": "2023-04-13",
-			"downloadURL": "https://github.com/Thekillergreece/ArcheryTargetPractice/releases/download/Latest/ArcheryTargetPractice.dll",
-			"modURL": "https://github.com/Thekillergreece/ArcheryTargetPractice",
-			"description": "A target for you to level up your archery skills a bit.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-			        "https://i.imgur.com/ryFycVM.jpg"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Updated for TLD v2.12",
-				"notes": "Just drop the .dll file into the mods folder.",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.17",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "4.4.2",
 			"name": "Clothing Pack by 'TKG' v4.4.1",
 			"displayName": "Clothing Pack by 'TKG'",
@@ -219,45 +178,6 @@
 				"beta": false,
 				"patchnotes": "Updated for TLD v2.12",
 				"notes": "Just drop the .modcomponent file into the mods folder.",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.17",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.4",
-			"name": "DisableBreathEffect",
-			"displayName": "Disable Breath Effect",
-			"author": "Thekillergreece",
-			"previousAuthors": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"released": "2023-04-17",
-			"updated": "2023-04-17",
-			"downloadURL": "https://github.com/Thekillergreece/DisableBreathEffect/releases/download/Latest/DisableBreathEffect.dll",
-			"modURL": "https://github.com/Thekillergreece/DisableBreathEffect",
-			"description": "Disables Breath Effects.",
-			"tags": "",
-			"categories": [
-				"Graphics"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Updated for TLD v2.12",
-				"notes": "Just drop the .dll file into the mods folder.",
 				"issues": ""
 			},
 			"testedon": {
