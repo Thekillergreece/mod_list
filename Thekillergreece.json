@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "5.2",
+			"version": "5.3",
 			"name": "FoodPackByTKG",
 			"displayName": "Food Pack by 'TKG'",
 			"author": "Thekillergreece, Kaiusername",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"released": "2023-04-11",
-			"updated": "2023-10-25",
-			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/tag/V5.2",
+			"updated": "2023-12-06",
+			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/tag/5.3",
 			"modURL": "https://github.com/Thekillergreece/FoodPackByTKG",
 			"description": "Introduces 38 new food items to the game.\n\nThis mod was expanded with Waltz's mod in mind so be sure to download that one too!",
 			"tags": "",
@@ -38,12 +38,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "5.2 version. Read the installation steps carefully on GitHub.",
+				"patchnotes": "5.3 version. Added spawns to new DLC region, adjusted some spawns.",
 				"notes": "Just drop the content into the mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
