@@ -101,14 +101,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1",
+			"version": "1.2",
 			"name": "RetroFoodPack",
 			"displayName": "Retro Food Pack",
 			"author": "Thekillergreece, Inarissa",
 			"previousAuthors": "",
 			"released": "2023-09-19",
-			"updated": "2023-10-13",
-			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/tag/Updated",
+			"updated": "2023-12-06",
+			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/tag/1.2",
 			"modURL": "https://github.com/Thekillergreece/Retro-Food",
 			"description": "New update that adds more items. Total items 23 now.",
 			"tags": "",
@@ -132,12 +132,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Version 1.1",
+				"patchnotes": "Version 1.2. Added spawns to new DLC region.",
 				"notes": "Drop the files into the mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
