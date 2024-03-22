@@ -145,52 +145,6 @@
 				"downloads": []
 			},
 			"aliases": ["RetroFood"]
-		},
-		{
-			"type": "mod",
-			"version": "1.0",
-			"name": "CollectorCards",
-			"displayName": "Collector Cards",
-			"author": "Thekillergreece, Kaiusername",
-			"previousAuthors": "",
-			"released": "2023-10-31",
-			"updated": "2023-10-31",
-			"downloadURL": "https://github.com/Thekillergreece/Collector-Cards/releases/download/Latest/CollectorCards.modcomponent",
-			"modURL": "https://github.com/Thekillergreece/Collector-Cards",
-			"description": "Adds 12 collector cards to be collected.",
-			"tags": "",
-			"categories": [
-				"Gear Items"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://i.imgur.com/cR5nmmR.png"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Version 1.0",
-				"notes": "Drop the files into the mods folder.",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
