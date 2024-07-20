@@ -141,8 +141,10 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": false,
-				"downloads": []
+				"enable": true,
+				"downloads": [
+					"https://github.com/Thekillergreece/Retro-Food/releases/download/1.3/RetroFood.rar"
+				]
 			},
 			"aliases": ["RetroFood"]
 		}
