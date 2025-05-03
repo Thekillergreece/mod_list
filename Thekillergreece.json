@@ -169,9 +169,7 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [
-				[],
-			],
+			"images": [],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
