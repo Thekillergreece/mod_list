@@ -170,7 +170,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://i.imgur.com/8yYdPp9.png"
+				[],
 			],
 			"dependencies": [
 				"ModSettings",
