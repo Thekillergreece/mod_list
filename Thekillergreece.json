@@ -148,6 +148,54 @@
 				]
 			},
 			"aliases": ["RetroFood"]
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "Rare-ExclusiveLoot",
+			"displayName": "Rare-Exclusive Loot",
+			"author": "Thekillergreece",
+			"previousAuthors": "",
+			"released": "2025-05-03",
+			"updated": "2025-05-03",
+			"downloadURL": "https://github.com/Thekillergreece/Rare-ExclusiveLoot/releases/download/1.0/Rare-ExclusiveLoot.modcomponent",
+			"modURL": "https://github.com/Thekillergreece/Rare-ExclusiveLoot",
+			"description": "Items available in Bunkers and/or Trader now appear in the world, albeit rare and in low numbers.",
+			"tags": "",
+			"categories": [
+				"Food"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/8yYdPp9.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Version 1.0. Release version.",
+				"notes": "Drop the file into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Thekillergreece/Rare-ExclusiveLoot/releases/download/1.0/Rare-ExclusiveLoot.modcomponent"
+				]
+			},
+			"aliases": ["Rare-ExclusiveLoot"]
 		}
 	]
 }
