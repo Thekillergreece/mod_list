@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "6",
+			"version": "6.1",
 			"name": "FoodPackByTKG",
 			"displayName": "Food Pack by 'TKG'",
 			"author": "Thekillergreece, Kaiusername",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"released": "2023-04-11",
-			"updated": "2025-05-20",
-			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6/FoodPackByTKG.zip",
+			"updated": "2025-10-12",
+			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6.1/FoodPackByTKG.7z",
 			"modURL": "https://github.com/Thekillergreece/FoodPackByTKG",
 			"description": "Introduces 38 new food items to the game.\n\nThis mod was expanded with Waltz's mod in mind so be sure to download that one too!",
 			"tags": "",
@@ -38,7 +38,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Version 6. Added recipes, packages and spawns to MOD Mountain Pass.",
+				"patchnotes": "Version 6.1 - Additional food spawns at custom regions.",
 				"notes": "Just drop the content into the mods folder.",
 				"issues": ""
 			},
