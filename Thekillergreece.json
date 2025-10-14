@@ -48,7 +48,7 @@
 			},
 			"updater": {
 				"enable": false,
-				"downloads": ["https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6/FoodPackByTKG.zip"
+				"downloads": ["https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6.1/FoodPackByTKG.7z"
 				]
 			},
 			"aliases": []
@@ -102,14 +102,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4",
+			"version": "1.5",
 			"name": "RetroFoodPack",
 			"displayName": "Retro Food Pack",
 			"author": "Thekillergreece, Inarissa",
 			"previousAuthors": "",
 			"released": "2023-09-19",
-			"updated": "2024-09-27",
-			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/download/1.4/RetroFood.zip",
+			"updated": "2025-10-14",
+			"downloadURL": "https://github.com/Thekillergreece/Retro-Food/releases/download/1.5/RetroFood.7z",
 			"modURL": "https://github.com/Thekillergreece/Retro-Food",
 			"description": "23 Retro Food items.",
 			"tags": "",
@@ -133,7 +133,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Version 1.4. Added spawns to modded regions.",
+				"patchnotes": "Version 1.5. Added more spawns to modded regions.",
 				"notes": "Drop the files into the mods folder.",
 				"issues": ""
 			},
@@ -144,7 +144,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/Thekillergreece/Retro-Food/releases/download/1.4/RetroFood.zip"
+					"https://github.com/Thekillergreece/Retro-Food/releases/download/1.5/RetroFood.7z"
 				]
 			},
 			"aliases": ["RetroFood"]
