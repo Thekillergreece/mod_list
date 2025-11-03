@@ -196,6 +196,53 @@
 				]
 			},
 			"aliases": ["Rare-ExclusiveLoot"]
+		},
+		{
+			"type": "mod",
+			"version": "3.0",
+			"name": "AmbientLights",
+			"displayName": "Ambient Lights",
+			"author": "Thekillergreece",
+			"previousAuthors": "Xpazeman",
+			"released": "2018-09-08",
+			"updated": "2025-11-03",
+			"downloadURL": "https://github.com/Thekillergreece/tld-ambient-lights/releases/download/v3/AmbientLights.7z",
+			"modURL": "https://github.com/Thekillergreece/tld-ambient-lights",
+			"description": "This mod aims to modify the default lightning for interiors with windows, making them brighter so you don't need a light source during midday to move around, and also more reflective of what's happening outside (time of day, weather, and sun position).",
+			"tags": "lighting, lighting overhaul, natural light, light, illumination",
+			"categories": [
+				"Gameplay",
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				""
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Version 3.",
+				"notes": "Drop the file into the mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Thekillergreece/tld-ambient-lights/releases/download/v3/AmbientLights.7z"
+				]
+			},
+			"aliases": ["AmbientLights"]
 		}
 	]
 }
