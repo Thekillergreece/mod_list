@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "6.2",
+			"version": "6.3",
 			"name": "FoodPackByTKG",
 			"displayName": "Food Pack by 'TKG'",
 			"author": "Thekillergreece, Kaiusername",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 			"released": "2023-04-11",
-			"updated": "2025-01-03",
-			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/6.2/FoodPackByTKG.7z",
+			"updated": "2026-01-21",
+			"downloadURL": "https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6.3/FoodPackByTKG.7z",
 			"modURL": "https://github.com/Thekillergreece/FoodPackByTKG",
 			"description": "Introduces 38 new food items to the game.\n\nThis mod was expanded with Waltz's mod in mind so be sure to download that one too!",
 			"tags": "",
@@ -35,7 +35,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Version 6.2",
+				"patchnotes": "Version 6.3 - Added a new item and some fixes.",
 				"notes": "Just drop the content into the mods folder.",
 				"issues": ""
 			},
@@ -45,7 +45,7 @@
 			},
 			"updater": {
 				"enable": false,
-				"downloads": ["https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6.1/FoodPackByTKG.7z"
+				"downloads": ["https://github.com/Thekillergreece/FoodPackByTKG/releases/download/v6.3/FoodPackByTKG.7z"
 				]
 			},
 			"aliases": []
